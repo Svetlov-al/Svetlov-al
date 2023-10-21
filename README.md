@@ -1,11 +1,10 @@
 # 👋 Привет, я Александр!
 ![Profile views](https://komarev.com/ghpvc/?username=Svetlov-al&color=blue)  
+### Связь со мной
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Svetlov-al&show_icons=true&theme=radical)
 
-### Связь со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ## Язык ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ### Фреймворки и инструменты 
