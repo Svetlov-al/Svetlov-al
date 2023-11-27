@@ -1,7 +1,7 @@
 # 👋 Привет, я Александр!
 ![Profile views](https://komarev.com/ghpvc/?username=Svetlov-al&color=blue)  
 ### Связь со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/set1qs) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s3t1qs@gmail.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Svetlov-al&show_icons=true&theme=radical)
 
